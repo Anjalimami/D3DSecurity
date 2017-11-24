@@ -14,7 +14,7 @@ Feature:Resister a new User.
     And I should see My Account button
     And I should see Log Out button
 
-
+hjewdjkewbahfk.wae Anjali
    @Valid_data
    Scenario Outline:
    And I enter a invalid email address as "<Email>"

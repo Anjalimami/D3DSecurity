@@ -8,7 +8,6 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         format={"pretty"},features="src/test/resources/", tags={"@a1"})
 
-
 public class RunCukesTest {
 
 
